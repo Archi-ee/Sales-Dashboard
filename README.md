@@ -1,6 +1,6 @@
 Madhav Ecommerce Sales Dashboard
 ## 📊 Dashboard Preview  
-![Madhav Ecommerce Dashboard]()  
+![Madhav Ecommerce Dashboard](./madhav_sales_dashbaord.png)  
 
 This repository contains an interactive Power BI dashboard created for analyzing e-commerce sales data. The dashboard provides insights into revenue, profit, customer behavior, and product performance across different states and categories.
 
@@ -42,7 +42,7 @@ Excel / CSV Dataset – Raw sales data used for building the report
 │-- 📊 Madavsalesdashboard.pbix   # Power BI file
 │-- 📑 README.md        # Project documentation
 │-- 📁 details.csv/orders.csv            # (Optional) Dataset used for analysis
-│-- 🖼️ Madhav sales dashboard.png    # Dashboard preview image
+│-- 🖼️ Madhav _sales_dashbaord.png    # Dashboard preview image
 
 
 Insights from Dashboard
